@@ -10,3 +10,5 @@
     5) [Niveau 5](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/Python_niveau6.ipynb)
     6) [Niveau 6](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/Python_niveau6.ipynb)
     7) ... à suivre ...
+
+Pour mémoire, pour rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturelEtChaud/Math-premiere/HEAD)
