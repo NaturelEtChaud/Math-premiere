@@ -12,3 +12,7 @@
     7) ... à suivre ...
 
 Pour mémoire, pour rendre les notebooks exécutables, il faut d'abord cliquer sur ce lien : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturelEtChaud/Math-premiere/HEAD)
+
+
+
+<iframe src="https://trinket.io/embed/python/9b8bc1dc4a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
