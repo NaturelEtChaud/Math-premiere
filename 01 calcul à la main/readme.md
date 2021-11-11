@@ -3,6 +3,7 @@
 * Le calcul fractionnaire (rappels de cours, exercices, corrigés jusqu'au niveau 8)
 * Le calcul de puissance (rappels de cours, exercices, corrigés jusqu'au niveau 7)
 * Les racines carrées (rappels de cours, exercices, corrigés jusqu'au niveau 8)
+* Le calcul littéral (`développement` : rappels de cours, exercices, corrigés jusqu'au niveau 5, puis `factoraistion` : rappels de cours, exercices, corrigés jusqu'au niveau 7)
 * Les [rappels](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/Rappels_Python.ipynb) pour programmer en Python
 * Les différents niveaux pour Python
     1) [Niveau 1](https://notebook.basthon.fr/?ipynb=eJy1lcFO4zAQQH9l5N5KBWrS0Cp3DlwQF05sFRlntrVw7OCMoVWVD9rv4MewU4roKuaSoFziicd5zyN7DqzmtGU5e9AkSWF5Keu9fmIzpnmFfXFhNKEmlh-YQKUalj8eWIXES07cR9tZFy9oX4f8itvn0rxpn9kYZ0WITeBmh1ZIgQ00zoJCUFxv-AahRKit2VheVZyk0XC_p63Rf_wzmUzgTr4idzCHHG51KV8cdtn2_V_jFHEK-WLLfRwEV8IpwNMSrJ2dcTKyriEsWe5f8D9qYUr8TpzCBSQwhcwHcYfCBbZCGBc2Yj5jxlHt6LgXx_fTSsfZWFgMhJH0LyTc0VWtuNQ-c5565LOdbddDHDKYTiHpI0iGCSQRgSQbXQDSqEQ6TCKNSCxGl7jq518M41_EinD5GwKhEn0U2TCJLCKxHFsinOeFl1j2UVwPk7iOSKTzcR2ScBR6q7AcJrCMCKxG5__hOK-GOaxil-rIEn3_1k6p7_Trdn32S_aMVqNqahRh9Nlo665LhXqWsvG4--Lzw7F9dZUOXdL5Nvk1nbWeTz_9Nda3y-4SOA2KSmpj_eXcth9QXbko)
