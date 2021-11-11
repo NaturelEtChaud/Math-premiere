@@ -1,5 +1,6 @@
 # 01 Calcul à la main
 
+---
 * Le calcul fractionnaire (rappels de cours, exercices, corrigés jusqu'au niveau 8)
 * Le calcul de puissance (rappels de cours, exercices, corrigés jusqu'au niveau 7)
 * Les racines carrées (rappels de cours, exercices, corrigés jusqu'au niveau 8)
