@@ -9,6 +9,6 @@ En parallèle du cours, les travaux de recherche en groupe ou les travaux pratiq
 
 1) Dans le [TG1](https://github.com/NaturelEtChaud/Math-premiere/blob/main/Travaux%20de%20recherche%20en%20groupe/TG_1_Seconde%20degr%C3%A9.pdf), on découvre le nombre d'or comme la solution d'une équation du second degré (exercice 2)
 
-Pour découvrir le nombre d'or et d'autres magies des mathématiques vous pouvez voir "Donald au pays des Mathémagiques", un film Disney de 1959 :
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_a4-zoTtAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+Pour découvrir le nombre d'or et d'autres magies mathématiques vous pouvez voir "Donald au pays des Mathémagiques", un film Disney de 1959 :
+https://youtu.be/j_a4-zoTtAU
