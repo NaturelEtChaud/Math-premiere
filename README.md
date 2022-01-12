@@ -5,6 +5,8 @@ Pour rendre les notebooks exécutables il faut d'abord cliquer sur ce lien pour 
 
 ---
 
+# Fibonacci et le nombre d'or
+
 En parallèle du cours, les travaux de recherche en groupe ou les travaux pratiques de codage en Python seront l'occasion de découvrir la suite de Fibonacci et le nombre d'or.
 
 1) Dans le [TG1](https://github.com/NaturelEtChaud/Math-premiere/blob/main/Travaux%20de%20recherche%20en%20groupe/TG_1_Seconde%20degr%C3%A9.pdf), on découvre le nombre d'or comme la solution d'une équation du second degré (exercice 2)
