@@ -4,7 +4,7 @@
 * Le [calcul fractionnaire](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/premi%C3%A8re_Math01_Calculs_Fraction.pdf) (rappels de cours, exercices, corrigés jusqu'au niveau 8)
 * Le [calcul de puissance](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/premi%C3%A8re_Math01_Calculs_Puissance.pdf) (rappels de cours, exercices, corrigés jusqu'au niveau 7)
 * Les [racines carrées](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/premi%C3%A8re_Math01_Calculs_Racine_Carr%C3%A9e.pdf) (rappels de cours, exercices, corrigés jusqu'au niveau 8)
-* Le [calcul littéral](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/premi%C3%A8re_Math01_Calculs_Calcul-Litt%C3%A9ral.pdf) (`développement` : rappels de cours, exercices, corrigés jusqu'au niveau 6, puis `factorisation` : rappels de cours, exercices, corrigés jusqu'au niveau 7)
+* Le [calcul littéral](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/premi%C3%A8re_Math01_Calculs_Calcul-Litt%C3%A9ral.pdf) (`développement` : rappels de cours, exercices, corrigés jusqu'au niveau 7, puis `factorisation` : rappels de cours, exercices, corrigés jusqu'au niveau 7)
 * Le [bases de la programmation en Python](https://github.com/NaturelEtChaud/Math-premiere/blob/main/01%20calcul%20%C3%A0%20la%20main/premi%C3%A8re_Math01_Calculs_Python.pdf) (rappels de cours, exercices, corrigés jusqu'au niveau 7)
 
 ---
