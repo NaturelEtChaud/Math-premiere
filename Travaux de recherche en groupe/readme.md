@@ -7,5 +7,5 @@
 ---
 
 3) [Travail n°3](https://github.com/NaturelEtChaud/Math-premiere/blob/main/Travaux%20de%20recherche%20en%20groupe/TG_3_Probabilit%C3%A9%20conditionnelle.pdf)  *Autour de la probabilité conditionnelle* (sujet et corrigé)
-* Exercice 1 : une petite propriété du nombre d'Or (manipulation de fraction, de racine carré et d'identité remarquable)
+* Exercice 1 : une petite propriété du nombre d'Or (manipulation de fraction, de racine carrée et d'identité remarquable)
 * Exercice 2 : probabilité conditionnelle
