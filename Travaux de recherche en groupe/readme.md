@@ -22,3 +22,11 @@
 * suites numériques
 * sommes des termes d'une suite
 * programmation en Python
+
+---
+
+6) [Travail n°6](https://github.com/NaturelEtChaud/Math-premiere/blob/main/Travaux%20de%20recherche%20en%20groupe/TG_6_La_Population_du_Japon.pdf) *Modélisation de l'évolution d'une population à l'aide d'une suite géométrique - Etude d'un jeu d'argent* ( Sujet et corrigé) <br/>
+On trouvera aussi le [programme en python](https://github.com/NaturelEtChaud/Math-premiere/blob/main/Travaux%20de%20recherche%20en%20groupe/TG_6_modele.py) qui a permi de construire le graphique avec le module `matplotlib`.
+* suite géométrique
+* probabilité
+* variable aléatoire
